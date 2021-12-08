@@ -1,0 +1,46 @@
+body{
+	background:lightblue;
+    margin:0;
+}
+
+
+.slika{
+	display: inline-block;
+	width: 24.5%;
+	height: 100%;
+	border-radius: 5%;
+}
+.slika:active{
+	width: 100%;
+	height: 100%;
+	
+}
+
+@media screen and (max-width: 600px) {
+  .slika  {
+    width: 100%;
+  }
+
+}
+.naslov{
+ 	font-size: 100px;
+ 	color: black;
+ 	text-align: center;
+ 	max-width:80%;
+ 	margin: auto;
+ 	padding:100px 0px;
+ 	
+ }
+ .ribolovac{
+ 	font-size: 50px;
+ 	text-align: center;
+ 	max-width:80%;
+ 	margin: auto;
+ 	padding: 50px 0px;
+ 	
+ }
+ 
+ 
+
+
+

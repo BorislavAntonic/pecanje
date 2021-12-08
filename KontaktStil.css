@@ -1,0 +1,55 @@
+form{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+   background: white;
+position: relative;
+top: 100px;
+text-align: center;
+opacity: 0.8;
+}
+
+body{
+	background:url(dunav.jpg) center fixed;
+    background-size: 100%;
+    margin: 0;
+}
+.trofej{
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+.dugmePosalji{
+	width: 100px;
+	height: 50px;
+	border: dotted 3px black;
+	padding: 5px 5px;
+	color: black;
+	background-color: white;
+	float:right;
+}
+.dugmePosalji:hover{
+	color: white;
+	background-color: black;
+	font-weight: bolder;
+
+}
+.predlog{
+	position: relative;
+	top: 300px;
+text-align: center;
+font-size: 25px;
+background: white;
+width: 50%;
+
+float:right;
+border: dashed red 3px;
+opacity: 0.8;
+}
+.naglasi{
+	background-color: yellow;
+
+}
+
